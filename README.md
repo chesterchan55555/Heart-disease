@@ -7,6 +7,9 @@ For a detailed walkthrough, please view the source code in order from:
 2. Data Visualisation
 3. Machine Learning Models
 ## Contributors
+Chester Chan
+Jothilingam Dheeraj
+Liu Han Wen
 ## Problem Definition
 - How can we identify the communities in America with a high-risk for cardiovascular diseases?
 - Which models are best suited for this prediction?
