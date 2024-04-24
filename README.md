@@ -14,7 +14,7 @@ For a detailed walkthrough, please view the source code in order from:
 1. Logistic Regression
 2. Gradient Boosting
 3. Random Forest
-4. Classification tree
+4. Decision tree
 ## Conclusion
 ## Takeaways
 ## References
